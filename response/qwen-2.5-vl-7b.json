@@ -1,0 +1,19 @@
+{
+    "model": "qwen2.5vl:7b",
+    "created_at": "2025-07-20T18:50:23.1111785Z",
+    "done": true,
+    "done_reason": "stop",
+    "total_duration": 4788929700,
+    "load_duration": 2718046200,
+    "prompt_eval_count": 149,
+    "prompt_eval_duration": 452550200,
+    "eval_count": 58,
+    "eval_duration": 1594874400,
+    "message": {
+        "role": "assistant",
+        "content": "```latex\n\\documentclass{article}\n\\usepackage{amsmath}\n\\begin{document}\n\\begin{equation}\n\\begin{split}\n&\\text{公式内容}\n\\end{split}\n\\end{equation}\n\\end{document}\n```",
+        "thinking": null,
+        "images": null,
+        "tool_calls": null
+    }
+}
